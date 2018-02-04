@@ -1,0 +1,38 @@
+body {
+	background: #3a78a1;
+}
+.block1 {
+  height:30px;
+  width:30px;
+  border: 1px solid red;
+  background: red;
+  position: absolute;
+  top: -32px;
+}
+.block2 {
+  height:30px;
+  width:30px;
+  border: 1px solid black;
+  background: black;
+  position: absolute;
+  top: -32px;
+  left: 650px;
+}
+.block3 {
+  height:30px;
+  width:30px;
+  border: 1px solid green;
+  background: green;
+  position: absolute;
+  top: -32px;
+  left: 1300px;
+}
+.block-trap {
+  height:100px;
+  width:500px;
+  border: 2px solid yellow;
+  background: yellow;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
