@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	form.addEventListener('submit', function(event) {
 		event.preventDefault();
-		let login = form.querySelector('login-field');
+		let login = form.querySelector('.login-field');
 		let re = /\w+@\w+\.[a-z]{2,5}/i;
 		let result = re.test(login.value);
 		if (result == false) {
