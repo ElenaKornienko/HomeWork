@@ -1,38 +1,29 @@
 body {
-	background: #3a78a1;
+	background: #7B68EE;
 }
 .block1 {
   height:30px;
   width:30px;
-  border: 1px solid red;
-  background: red;
+  background: #FF0000;
   position: absolute;
-  top: -32px;
 }
-.block2 {
+/*.block2 {
   height:30px;
   width:30px;
-  border: 1px solid black;
-  background: black;
+  background: #0000FF;
   position: absolute;
-  top: -32px;
   left: 650px;
 }
 .block3 {
   height:30px;
   width:30px;
-  border: 1px solid green;
-  background: green;
+  background: #00FF00;
   position: absolute;
-  top: -32px;
   left: 1300px;
-}
+}*/
 .block-trap {
-  height:100px;
-  width:500px;
-  border: 2px solid yellow;
-  background: yellow;
+  height:50px;
+  width:200px;
+  background: #FFFF00;
   position: absolute;
-  bottom: 0;
-  left: 0;
 }
